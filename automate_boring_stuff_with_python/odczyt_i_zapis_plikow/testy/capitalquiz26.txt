@@ -1,0 +1,308 @@
+Imiê i nazwisko:
+
+Data:
+
+Klasa:
+
+                    Quiz stolic stanów (Quiz 26)
+
+1. Co jest stolica stanu Waszyngton?
+    A. Trenton
+    B. Concord
+    C. Nashville
+    D. Olympia
+
+2. Co jest stolica stanu Iowa?
+    A. Providence
+    B. Des Moines
+    C. Salt Lake City
+    D. Columbia
+
+3. Co jest stolica stanu Karolina Pó³nocna?
+    A. Montpelier
+    B. Atlanta
+    C. Columbus
+    D. Raleigh
+
+4. Co jest stolica stanu Dakota Po³udniowa?
+    A. Atlanta
+    B. Sacramento
+    C. Oklahoma City
+    D. Pierre
+
+5. Co jest stolica stanu Maryland?
+    A. Annapolis
+    B. Augusta
+    C. Concord
+    D. Juneau
+
+6. Co jest stolica stanu Nebraska?
+    A. Honolulu
+    B. Harrisburg
+    C. Lincoln
+    D. Pierre
+
+7. Co jest stolica stanu Nowy Meksyk?
+    A. Phoenix
+    B. Baton Rouge
+    C. Austin
+    D. Santa Fe
+
+8. Co jest stolica stanu Karolina Po³udniowa?
+    A. Austin
+    B. Salem
+    C. Springfield
+    D. Columbia
+
+9. Co jest stolica stanu Teksas?
+    A. Pierre
+    B. Hartford
+    C. Austin
+    D. Albany
+
+10. Co jest stolica stanu New Jersey?
+    A. Columbia
+    B. Des Moines
+    C. Atlanta
+    D. Trenton
+
+11. Co jest stolica stanu Connecticut?
+    A. Hartford
+    B. Santa Fe
+    C. Phoenix
+    D. Albany
+
+12. Co jest stolica stanu Vermont?
+    A. Montpelier
+    B. Austin
+    C. Jackson
+    D. Lincoln
+
+13. Co jest stolica stanu Oregon?
+    A. Salem
+    B. Carson City
+    C. Santa Fe
+    D. Helena
+
+14. Co jest stolica stanu Nevada?
+    A. Carson City
+    B. Charleston
+    C. Providence
+    D. Montgomery
+
+15. Co jest stolica stanu Kolorado?
+    A. Tallahassee
+    B. Denver
+    C. Honolulu
+    D. Augusta
+
+16. Co jest stolica stanu Pensylwania?
+    A. Albany
+    B. Olympia
+    C. Austin
+    D. Harrisburg
+
+17. Co jest stolica stanu Michigan?
+    A. Lansing
+    B. Albany
+    C. Columbia
+    D. Little Rock
+
+18. Co jest stolica stanu Tennessee?
+    A. Nashville
+    B. Salem
+    C. Indianapolis
+    D. Sacramento
+
+19. Co jest stolica stanu Montana?
+    A. Helena
+    B. Santa Fe
+    C. Phoenix
+    D. Boston
+
+20. Co jest stolica stanu Kansas?
+    A. Topeka
+    B. Columbus
+    C. Helena
+    D. Salt Lake City
+
+21. Co jest stolica stanu Arkansas?
+    A. Pierre
+    B. Raleigh
+    C. Juneau
+    D. Little Rock
+
+22. Co jest stolica stanu Wirginia?
+    A. Columbus
+    B. Richmond
+    C. Columbia
+    D. Albany
+
+23. Co jest stolica stanu Idaho?
+    A. Richmond
+    B. Boise
+    C. Augusta
+    D. Little Rock
+
+24. Co jest stolica stanu Alabama?
+    A. Dover
+    B. Montgomery
+    C. Annapolis
+    D. Indianapolis
+
+25. Co jest stolica stanu Dakota Pó³nocna?
+    A. Charleston
+    B. Trenton
+    C. Bismarck
+    D. Harrisburg
+
+26. Co jest stolica stanu Wyoming?
+    A. Cheyenne
+    B. Harrisburg
+    C. Baton Rouge
+    D. Austin
+
+27. Co jest stolica stanu Kentucky?
+    A. Concord
+    B. Lincoln
+    C. Frankfort
+    D. Lansing
+
+28. Co jest stolica stanu Wisconsin?
+    A. Juneau
+    B. Madison
+    C. Providence
+    D. Concord
+
+29. Co jest stolica stanu Floryda?
+    A. Jackson
+    B. Tallahassee
+    C. Albany
+    D. Sacramento
+
+30. Co jest stolica stanu Arizona?
+    A. Phoenix
+    B. Tallahassee
+    C. Jackson
+    D. Boston
+
+31. Co jest stolica stanu Nowy Jork?
+    A. Providence
+    B. Albany
+    C. Tallahassee
+    D. Phoenix
+
+32. Co jest stolica stanu Wirginia Zachodnia?
+    A. Boston
+    B. Montgomery
+    C. Richmond
+    D. Charleston
+
+33. Co jest stolica stanu Mississippi?
+    A. Jackson
+    B. Trenton
+    C. Jefferson City
+    D. Atlanta
+
+34. Co jest stolica stanu Massachusetts?
+    A. Helena
+    B. Madison
+    C. Providence
+    D. Boston
+
+35. Co jest stolica stanu Missouri?
+    A. Harrisburg
+    B. Montpelier
+    C. Raleigh
+    D. Jefferson City
+
+36. Co jest stolica stanu Delaware?
+    A. Dover
+    B. Boston
+    C. Frankfort
+    D. Sacramento
+
+37. Co jest stolica stanu Alaska?
+    A. Harrisburg
+    B. Bismarck
+    C. Juneau
+    D. Des Moines
+
+38. Co jest stolica stanu Oklahoma?
+    A. Oklahoma City
+    B. Augusta
+    C. Jefferson City
+    D. Salem
+
+39. Co jest stolica stanu Maine?
+    A. Montpelier
+    B. Boston
+    C. Trenton
+    D. Augusta
+
+40. Co jest stolica stanu Rhode Island?
+    A. Providence
+    B. Harrisburg
+    C. Sacramento
+    D. Baton Rouge
+
+41. Co jest stolica stanu Luizjana?
+    A. Frankfort
+    B. Cheyenne
+    C. Baton Rouge
+    D. Sacramento
+
+42. Co jest stolica stanu Minnesota?
+    A. Richmond
+    B. Saint Paul
+    C. Nashville
+    D. Lincoln
+
+43. Co jest stolica stanu Utah?
+    A. Salt Lake City
+    B. Jackson
+    C. Albany
+    D. Columbia
+
+44. Co jest stolica stanu New Hampshire?
+    A. Boston
+    B. Trenton
+    C. Concord
+    D. Springfield
+
+45. Co jest stolica stanu Ohio?
+    A. Cheyenne
+    B. Baton Rouge
+    C. Columbus
+    D. Helena
+
+46. Co jest stolica stanu Hawaje?
+    A. Indianapolis
+    B. Topeka
+    C. Honolulu
+    D. Frankfort
+
+47. Co jest stolica stanu Indiana?
+    A. Madison
+    B. Indianapolis
+    C. Bismarck
+    D. Harrisburg
+
+48. Co jest stolica stanu Kalifornia?
+    A. Sacramento
+    B. Nashville
+    C. Phoenix
+    D. Springfield
+
+49. Co jest stolica stanu Georgia?
+    A. Saint Paul
+    B. Atlanta
+    C. Richmond
+    D. Columbia
+
+50. Co jest stolica stanu Illinois?
+    A. Madison
+    B. Springfield
+    C. Columbia
+    D. Dover
+
